@@ -5,7 +5,6 @@ edition = "2021"
 authors = ["laplade"]
 description = "RPN(Reverse Polish Notatio) library"
 license = "MIT"
-edition = "2021"
 include = ["src/", "README.md"]
 homepage = "https://github.com/kujirahand/book-rust/tree/main/src/ch4/rpn_calc/README.md"
 
