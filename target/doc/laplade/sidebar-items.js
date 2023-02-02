@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["eval","RPN式を計算する関数"],["eval_str","より手軽に使う"]]};

@@ -6,7 +6,7 @@ authors = ["laplade"]
 description = "RPN(Reverse Polish Notatio) library"
 license = "MIT"
 include = ["src/", "README.md"]
-homepage = "https://github.com/kujirahand/book-rust/tree/main/src/ch4/rpn_calc/README.md"
+homepage = "https://github.com/Laplade/laplade"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
